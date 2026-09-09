@@ -19,7 +19,3 @@ Geocoded 26,000+ building permits with a 94% match rate to visualize 23 years of
 ### 4. Motor Vehicle Collision Hotspot Analysis
 Analyzed 8 years of collision data using 1 km² hexagonal tessellation and spatial joins to identify persistent high-risk zones, highlighting the downtown core and major arterial interchanges.
 [View Project](./04-collision-hotspot-analysis)
-
-### 5. NBA Shot Efficiency & Spatial Comparison
-Used ArcGIS Pro tessellation and Python to visualize and compare spatial shooting efficiency, analyzing performance differentials against team averages and the spatial shift in shot selection across eras.
-[View Project](./05-nba-shot-chart-analysis)
