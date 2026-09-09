@@ -19,7 +19,7 @@ This project evaluates the impact of adding new fire stations in Elmira and New 
 ## Maps
 The final map layouts for the Service Area and Location-Allocation analyses are included in this folder.
 
-![Fire Station Expansion Options](Fire Station Expansion Options for the Region of Waterloo.jpg)
+![Fire Station Expansion Options](/Fire Station Expansion Options for the Region of Waterloo.jpg)
 *Proposed expansion options for the Region of Waterloo using location-allocation analysis.*
 
 ![Service Area Analysis](Service Area Analysis Proposed Fire Station Locations, Region of Waterloo.jpg)
