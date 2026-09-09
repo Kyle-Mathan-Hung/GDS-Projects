@@ -17,10 +17,10 @@ This project evaluates the impact of adding new fire stations in Elmira and New 
 - Scenario BA also cut the proportion of fire calls exceeding the 10-minute coverage window by nearly 50%.
 
 ## Maps
-The final map layouts for the Service Area and Location-Allocation analyses are included in this folder.
+<img width="100%" alt="Fire Station Expansion Options for the Region of Waterloo" src="https://github.com/user-attachments/assets/48613a40-a49e-406b-a203-421192635d39" />
+<p align="center"><small>Figure 1: Proposed expansion options for the Region of Waterloo using location-allocation analysis.</small></p>
 
-<img width="4200" height="2550" alt="Fire Station Expansion Options for the Region of Waterloo" src="https://github.com/user-attachments/assets/48613a40-a49e-406b-a203-421192635d39" />
-*Proposed expansion options for the Region of Waterloo using location-allocation analysis.*
+<br>
 
-<img width="4200" height="2550" alt="Service Area Analysis Proposed Fire Station Locations, Region of Waterloo" src="https://github.com/user-attachments/assets/d9a446de-1102-471b-a102-e21678909853" />
-*2-, 5-, and 10-minute response zones for proposed fire station locations.*
+<img width="100%" alt="Service Area Analysis Proposed Fire Station Locations, Region of Waterloo" src="https://github.com/user-attachments/assets/d9a446de-1102-471b-a102-e21678909853" />
+<p align="center"><small>Figure 2: 2-, 5-, and 10-minute response zones for proposed fire station locations.</small></p>
