@@ -1,4 +1,4 @@
-# 🏗️ City of Kitchener Building Permit Geocoding & Interactive Dashboard (1999–2022)
+# City of Kitchener Building Permit Geocoding & Interactive Dashboard (1999–2022)
 
 ## Overview
 This project involves the geocoding and spatial-temporal analysis of new construction building permits issued in the City of Kitchener over a 23-year period. The goal was to visualize urban growth patterns, identify construction hotspots, and develop an interactive business intelligence dashboard to allow stakeholders to dynamically explore temporal and spatial trends.
@@ -19,9 +19,10 @@ This project involves the geocoding and spatial-temporal analysis of new constru
 - **Spatial Patterns:** Construction hotspots are heavily concentrated around the edges of the city, indicating outward urban expansion and "greenfield development," which aligns with the City of Kitchener’s 2009 Growth Management Strategy.
 - **Temporal Trends:** Identified distinct peaks in construction activity in 2005 and 2016, with a notable downturn from 2008 to 2013 that strongly correlates with the economic impact of the 2008 Global Financial Crisis.
 
-## 📊 Interactive Dashboard
+## Interactive Dashboard
 
-![Power BI Dashboard](powerbi-dashboard.png)
+<img width="100%" alt="Interactive Power BI Dashboard for New Construction Building Permits in the City of Kitchener, 1999-2022" src="powerbi-dashboard.png" />
+<p align="center"><small>Figure 2: Interactive Power BI dashboard featuring the spatial distribution of permits, temporal construction trends, and a dynamic year filter.</small></p>
 
 *Dashboard features:*
 - **Spatial Distribution Map:** Interactive ArcGIS map showing all geocoded permits across Kitchener.
@@ -29,7 +30,7 @@ This project involves the geocoding and spatial-temporal analysis of new constru
 - **Year Filter:** Interactive slicer allowing users to explore specific years and observe spatial-temporal patterns dynamically.
 - **KPI Card:** Summary metric displaying total permits analyzed.
 
-## 🗺️ Static Map Analysis
+## Static Map Analysis
 
 <img width="100%" alt="New Construction Building Permits Issued in the City of Kitchener, 1999-2022" src="New Construction Building Permits Issued in the City of Kitchener, 1999-2022.jpg" />
 <p align="center"><small>Figure 1: Hexagonal binning map showing spatial density and hotspots of new construction building permits in Kitchener (1999-2022).</small></p>
