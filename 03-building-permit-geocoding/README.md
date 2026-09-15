@@ -22,7 +22,7 @@ This project involves the geocoding and spatial-temporal analysis of new constru
 ## Interactive Dashboard
 
 <img width="100%" alt="Interactive Power BI Dashboard for New Construction Building Permits in the City of Kitchener, 1999-2022" src="Power BI Dashboard Screenshot.png" />
-<p align="center"><small>Figure 2: Interactive Power BI dashboard featuring the spatial distribution of permits, temporal construction trends, and a dynamic year filter.</small></p>
+<p align="center"><small>Figure 1: Interactive Power BI dashboard featuring the spatial distribution of permits, temporal construction trends, and a dynamic year filter.</small></p>
 
 *Dashboard features:*
 - **Spatial Distribution Map:** Interactive ArcGIS map showing all geocoded permits across Kitchener.
@@ -33,4 +33,4 @@ This project involves the geocoding and spatial-temporal analysis of new constru
 ## Static Map Analysis
 
 <img width="100%" alt="New Construction Building Permits Issued in the City of Kitchener, 1999-2022" src="New Construction Building Permits Issued in the City of Kitchener, 1999-2022.jpg" />
-<p align="center"><small>Figure 1: Hexagonal binning map showing spatial density and hotspots of new construction building permits in Kitchener (1999-2022).</small></p>
+<p align="center"><small>Figure 2: Hexagonal binning map showing spatial density and hotspots of new construction building permits in Kitchener (1999-2022).</small></p>
