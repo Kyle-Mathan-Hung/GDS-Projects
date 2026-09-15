@@ -21,7 +21,7 @@ This project involves the geocoding and spatial-temporal analysis of new constru
 
 ## Interactive Dashboard
 
-<img width="100%" alt="Interactive Power BI Dashboard for New Construction Building Permits in the City of Kitchener, 1999-2022" src="powerbi-dashboard.png" />
+<img width="100%" alt="Interactive Power BI Dashboard for New Construction Building Permits in the City of Kitchener, 1999-2022" src="Power BI Dashboard Screenshot.png" />
 <p align="center"><small>Figure 2: Interactive Power BI dashboard featuring the spatial distribution of permits, temporal construction trends, and a dynamic year filter.</small></p>
 
 *Dashboard features:*
